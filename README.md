@@ -23,3 +23,18 @@ ISAMBARD is an open-source Python package for structural analysis and rational d
 ISAMBARD: an open-source computational environment for biomolecular analysis, modelling and design. Bioinformatics 2017. doi: 10.1093/bioinformatics/btx352
 
 CCBuilder 2.0: Powerful and accessible coiled-coil modelling, Protein Science 2017. doi: 10.1002/pro.3279
+
+## Training Material
+
+The workshop consists of a series of Jupyter notebooks. These are available
+below, and can be run using the 
+<a href="https://ccpbiosim.github.io/workshop/events/bristol2018/server.html" target="_blank">workshop jupyter server</a>.
+
+Once you have started the server, navigate to the `isambard_workshop` directory and you will find the
+notebooks there.
+
+## Contents
+
+* [tutorial1/001Tutorial.ipynb](tutorial1/001Tutorial.ipynb)
+* [tutorial2/002Tutorial.ipynb](tutorial2/002Tutorial.ipynb)
+* [tutorial3/003Tutorial.ipynb](tutorial3/003Tutorial.ipynb)
