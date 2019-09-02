@@ -35,6 +35,6 @@ notebooks there.
 
 ## Contents
 
-* [tutorial1/001Tutorial.ipynb](tutorial1/001Tutorial.ipynb)
-* [tutorial2/002Tutorial.ipynb](tutorial2/002Tutorial.ipynb)
-* [tutorial3/003Tutorial.ipynb](tutorial3/003Tutorial.ipynb)
+* [tutorial1/Tutorial001.ipynb](tutorial1/Tutorial001.ipynb)
+* [tutorial2/Tutorial002.ipynb](tutorial2/Tutorial002.ipynb)
+* [tutorial3/Tutorial003.ipynb](tutorial3/Tutorial003.ipynb)
