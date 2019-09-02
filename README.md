@@ -1,14 +1,14 @@
-# ISAMBARD_workshop2019
+# ISAMBARD: A Python-based API for Biomolecular Structure Analysis and Parametric Design of Protein Structures
 
-#Aimed at: 
+## Aimed at: 
 
 Researchers wanting to perform biomolecular structure analysis and/or de novo modelling of parameterizable protein folds such as coiled coils or other repeat proteins.
 
-#Requirements: 
+## Requirements: 
 
 A basic knowledge of Python is required and familiarity with Jupyter Notebooks is useful.
 
-#Abstract: 
+## Abstract: 
 
 ISAMBARD is an open-source Python package for structural analysis and rational design of biomolecules. This workshop will cover an overview of the basic functionality included in ISAMBARD and comprises of three parts:
 
@@ -18,7 +18,7 @@ ISAMBARD is an open-source Python package for structural analysis and rational d
 
 3. Optimization of the structural parameters of models: We will give a brief introduction to meta-heuristics, basic optimization of parametric models and how to analyse and interpret the results.
 
-#References:
+## References:
 
 ISAMBARD: an open-source computational environment for biomolecular analysis, modelling and design. Bioinformatics 2017. doi: 10.1093/bioinformatics/btx352
 
